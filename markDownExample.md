@@ -1,3 +1,15 @@
+Google | Youtube
+:-------: | :--------:
+This is the content of table 1 | This is the content of table 2
+Another content 1 | another content 2
+[Click Google](google.com) | [Click Youtube](youtube.com)
+![Google](https://download.logo.wine/logo/Google/Google-Logo.wine.png "google") | ![Youtube](https://t3.ftcdn.net/jpg/06/34/31/96/360_F_634319630_txtgmPLEEQ8o4zaxec2WKrLWUBqdBBQn.jpg "youtube")
+
+
++ [ ] First Task
++ [X] Second Task
+
+
 # This is the file for markdown testing.
 We can do **bold** \
 we can do _italic_ \
@@ -26,5 +38,3 @@ we can do bold with italic __*bolt*__
 2. Two
 3. Three
 
-+ [ ] task 1
-+ [ ] task 2
